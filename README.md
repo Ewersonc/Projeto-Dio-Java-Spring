@@ -1,8 +1,7 @@
-📌 Projeto Java Spring Boot
+Projeto Java Spring Boot
 
 Este é um projeto backend em Java usando Spring Boot, desenvolvido como parte de um desafio prático da plataforma Digital Innovation One (DIO). O objetivo é aplicar o ecossistema Spring Boot para construir uma aplicação web/REST com boas práticas de arquitetura, estrutura de pastas e integração com um banco de dados relacional.
-
-🧠 Descrição
+Descrição
 
 Este projeto demonstra como criar uma API/serviço backend em Java utilizando Spring Boot com os principais recursos modernos do framework, como:
 
@@ -20,7 +19,7 @@ Uso das convenções do Spring Boot para iniciar a aplicação REST
 
 Isso torna o projeto uma base sólida para aprender ou demonstrar habilidades em backend Java.
 
-🚀 Tecnologias
+Tecnologias
 
 ✔ Java
 ✔ Spring Boot
